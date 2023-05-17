@@ -5,5 +5,9 @@ Usage of Third Party API(REST Countries API) to render all the details present i
 
 Implemented Routing Concepts to leverage the concept of Considering Multiple Component Rendering Based on the Choice Opted by the End Users.
 
+Future Works:
+Adding More Functionality.
+
+
 Tech Stack:ReactJS,React Router DOM,React-Bootstrap,FetchAPI.
 
