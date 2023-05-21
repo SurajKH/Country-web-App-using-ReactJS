@@ -12,7 +12,7 @@ import 'bootstrap-css-only/css/bootstrap.min.css';
 import 'mdbreact/dist/css/mdb.css';
 import {MDBIcon} from 'mdbreact';
 
-function CurrenciesComponent()
+function GeographicalCountryDetails()
 {
     
 
@@ -108,4 +108,4 @@ function CurrenciesComponent()
     </React.Fragment>
    )
 }
-export default CurrenciesComponent;
+export default GeographicalCountryDetails;
