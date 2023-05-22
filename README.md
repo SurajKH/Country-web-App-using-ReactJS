@@ -7,8 +7,6 @@ Implemented Routing Concepts to leverage the concept of Considering Multiple Com
 
 Future Works:
 
-Adding More Functionality.
-
 User Authentication Functionality.
 
 
